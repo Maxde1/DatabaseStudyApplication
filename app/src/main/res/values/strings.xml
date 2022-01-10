@@ -3,4 +3,6 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="some_text">Some text</string>
+    <string name="go_to_home_fragment">Go to home fragment</string>
+    <string name="save_data">save data</string>
 </resources>
